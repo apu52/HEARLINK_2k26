@@ -24,8 +24,8 @@ import StudentCourses from "./pages/Dashboard/student-courses";
 import StudentCalendar from "./pages/Dashboard/student-calendar";
 import LearningMaterials from "./pages/Dashboard/Learning_Materials";
 import Speechtotext from "./pages/Dashboard/speech-to-text";
-import Classrecording from "./pages/Dashboard/ClassRecording";
-import Aistudenthelper from "./pages/Dashboard/AIstudenthelper";
+import Classrecording from "./pages/Dashboard/Classrecording";
+import Aistudenthelper from "./pages/Dashboard/Aistudenthelper";
 
 
 
@@ -70,3 +70,4 @@ const App = () => (
 );
 
 export default App;
+
